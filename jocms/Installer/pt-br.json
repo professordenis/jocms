@@ -1,0 +1,11 @@
+{
+  "I_ACC":"Crie uma conta",
+  "I_ACC_TEXT":"Agora, crie uma nova conta de administrador. Ela permite que você altere as configurações e adicione outros usuários.",
+  "I_BACK":"Voltar",
+  "I_ERR_PHP":"O jocms não é compatível com sua versão do PHP. A versão mínima requerida é a 5.5.",
+  "I_ERR_SQL":"O SQLite3 não está disponível.",
+  "I_NEXT":"Avançar",
+  "I_OK":"Feito!",
+  "I_OK_TEXT":"<p>O jocms está instalado.</p><ul><li>Por favor, <b>exclua</b> o diretório <code>/jocms/Installer</code> agora.</li><li>Agora, você pode fazer login e começar.</li><li>Se você gostou do jocms, por favor, adicione link <code>jocms.rusciori.org</code> no seu site ;)</li></ul>",
+  "I_WELC_TEXT":"<p>Este instalador guiará você através do processo de instalação do jocms.</p><ul><li>Por favor, <b>faça o backup de seus arquivos</b> antes de continuar, assim nada será danificado!</li><li>O jocms ainda encontra-se na versão beta, então erros poderão ocorrer porque ele ainda não está pronto. Eu ficarei muito feliz se você me der algum feedback.</li></ul>"
+}
